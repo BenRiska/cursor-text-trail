@@ -13,7 +13,7 @@ body {
     position: absolute;
     pointer-events: none;
     font-size: 6em;
-    -webkit-text-stroke: 1.6px #fff;
+    -webkit-text-stroke: 1.6px red;
     font-weight: 500;
     text-transform: uppercase;
     color: #161616;
